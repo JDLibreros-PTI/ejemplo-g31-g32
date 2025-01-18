@@ -6,4 +6,4 @@ for i in range([1, 2, 3, 4]):
 if True == False:
     print("Hello")
 else:
-    print("Bye")
+    print("Bye, students")
