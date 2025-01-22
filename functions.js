@@ -1,3 +1,3 @@
-function SaludarAlumnos(){
-    alert("Hola Alumnos de Parquesoft");
+SaludarAlumnos=()=>{
+    alert("Hola Alumnos de Parquesoft c31-32");
 }
